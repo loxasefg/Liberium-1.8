@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/22959241/README.md)
+
 # 🛡️ Liberium 1.8 — Remote Administration Tool
 
 > *Remote administration tool with built-in RCE protection — for research and educational use only.*
