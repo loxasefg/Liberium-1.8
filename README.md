@@ -21,10 +21,7 @@ This software is intended **strictly for educational and research purposes** in 
 
 ## 🖥️ Interface Preview
 
-![Liberium 1.8 UI](image.png)
-
-> *(Screenshot included in repository as `image.png`.)*
-
+![Screenshot](https://media.discordapp.net/attachments/1399442511927447562/1399705691366883518/image.png?ex=68f21f82&is=68f0ce02&hm=b0fc2d0276d0cc2b0be712a1882a12bba3e6d99474b76d42d1503786cd9c2942&=&format=webp&quality=lossless)
 ---
 
 ## 🧩 Requirements
